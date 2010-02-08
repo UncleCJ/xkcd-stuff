@@ -1,5 +1,7 @@
-dearvarious1: "Dear various parents, grandparents, co-workers and other \"not computer people.\""
-dearvarious2: "We don't magically know how to do everything in every program. When we help you, we're usually just doing this:"
+dearvarious1: Dear various parents, grandparents, co-workers,
+dearvarious2: and other "not computer people."
+dearvarious3: We don't magically know how to do everything in every
+dearvarious4: "program. When we help you, we're usually just doing this:"
 start: Start
 findmenu: Find a menu item or button which looks related to what you want to do.
 ok: Ok

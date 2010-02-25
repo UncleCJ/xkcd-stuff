@@ -1,0 +1,498 @@
+
+
+dearvarious1: Dear various parents, grandparents, co-workers,
+dearvarious2: and other "not computer people."
+dearvarious3: We don't magically know how to do everything in every
+dearvarious4: "program. When we help you, we're usually just doing this:"
+start: Start
+findmenu: Find a menu item or button which looks related to what you want to do.
+ok: Ok
+clickit: Click it.
+cannotfind: "I can't find one"
+pickrandom: Pick one at random.
+triedall: "I've tried them all."
+googleit: Google the name of the program plus a few words related to what you want to do. Follow any instructions.
+diditwork: Did it work?
+"yes": "Yes"
+done: "You're done!"
+"no": "No"
+beentrying: Have you been trying this for over half an hour?
+askhelp: Ask someone for help or give up.
+footer1: Please print this flowchart out and tape it near your screen.
+footer2: "Congratulations; You're now the local computer expert!"
+
+
+
+
+Dear various parents, grandparents, co-workers, and other "not computer people."
+
+
+We don't magically know how to do everything in every program. When we help you, we're usually just doing this:
+
+Start
+
+
+Find a menu item or button which looks related to what you want to do.
+
+
+Ok
+
+
+Click it.
+
+
+I can't find one
+
+
+Pick one at random.
+
+I've tried them all.
+
+
+Google the name of the program plus a few words related to what you want to do. Follow any instructions.
+
+Did it work?
+
+
+"Yes"
+
+
+"You're done!"
+
+
+"No"
+
+
+Have you been trying this for over half an hour?
+
+
+Ask someone for help or give up.
+
+
+Please print this flowchart out and tape it near your screen.
+
+"Congratulations; You're now the local computer expert!"
+
+
+
+親愛なる様々な両親、祖父母、同僚、およびその他"はコンピュータの人々"。
+
+
+私たちは魔法のようにどのようにすべてのプログラム内のすべてのことを知らない。ときに役立つので、通常はこれをやっている：
+
+開始する
+
+
+メニュー項目や、何をするに関連する検索ボタンをクリックして下さい。
+
+
+玉
+
+
+クリックします。
+
+
+私は1つを見つけることができません
+
+
+ランダムに1つ選んでください。
+
+私はそれらをすべて試した。
+
+
+Googleは、プログラムの名前、いくつかの言葉を何をするに関連する。任意の指示に従ってください。
+
+でしたが動作しますか？
+
+
+"はい"
+
+
+"これで完了です！"
+
+
+"いいえ"
+
+
+あなたのため、この試みていることが半分以上が1時間？
+
+
+ヘルプまたは放棄を求める。
+
+
+このフローチャートをプリントアウトし、画面の近くにテープ。
+
+"おめでとう、あなたは、ローカルコンピュータの専門家だ！"
+
+
+
+
+
+i translationShow romanization
+प्रिय विभिन्न माता पिता, दादा दादी, सह कार्यकर्ताओं, और अन्य "नहीं कंप्यूटर लोग हैं."
+
+
+हम जादुई नहीं पता है कि हर कार्यक्रम में सब कुछ करना है. जब हम आपकी मदद कर, हम आम तौर पर सिर्फ यह क्या कर रहे हैं:
+
+प्रारंभ करना
+
+
+एक मेनू आइटम या बटन जो कि तुम्हें क्या करना चाहता हूँ से संबंधित है ढूँढें.
+
+
+ठीक है
+
+
+इसे क्लिक करें.
+
+
+मैं एक नहीं मिल रहा
+
+
+यादृच्छिक पर एक उठाओ.
+
+मैं उन सभी की कोशिश की है.
+
+
+कार्यक्रम प्लस के नाम गूगल कुछ जो तुम करना चाहते से संबंधित शब्द. किसी निर्देश का पालन करें.
+
+क्या यह काम करते हो?
+
+
+"हाँ"
+
+
+"तुम कर रहे हैं!"
+
+
+"नहीं"
+
+
+तुम्हारे लिए क्या प्रयास कर रहे हैं इस पर आधे घंटे?
+
+
+के लिए मदद देने या किसी से पूछो.
+
+
+कृपया इस प्रवाह संचित्र प्रिंट बाहर और अपने स्क्रीन के पास टेप.
+
+'बधाई हो, अब आप स्थानीय कंप्यूटर विशेषज्ञ रहे हैं! "
+Contribute a better translatio
+
+
+
+
+Priya vibhinna mātā pitā, dādā dādī, saha kāryakartā'ōṁ, aura an'ya"nahīṁ kampyūṭara lōga haiṁ."
+
+
+Hama jādu'ī nahīṁ patā hai ki hara kāryakrama mēṁ saba kucha karanā hai. Jaba hama āpakī madada kara, hama āma taura para sirpha yaha kyā kara rahē haiṁ:
+
+Prārambha karanā
+
+
+Ēka mēnū ā'iṭama yā baṭana jō ki tumhēṁ kyā karanā cāhatā hūm̐ sē sambandhita hai ḍhūm̐ḍhēṁ.
+
+
+Ṭhīka hai
+
+
+Isē klika karēṁ.
+
+
+Maiṁ ēka nahīṁ mila rahā
+
+
+Yādr̥cchika para ēka uṭhā'ō.
+
+Maiṁ una sabhī kī kōśiśa kī hai.
+
+
+Kāryakrama plasa kē nāma gūgala kucha jō tuma karanā cāhatē sē sambandhita śabda. Kisī nirdēśa kā pālana karēṁ.
+
+Kyā yaha kāma karatē hō?
+
+
+"Hām̐"
+
+
+"Tuma kara rahē haiṁ!"
+
+
+"Nahīṁ"
+
+
+Tumhārē li'ē kyā prayāsa kara rahē haiṁ isa para ādhē ghaṇṭē?
+
+
+Kē li'ē madada dēnē yā kisī sē pūchō.
+
+
+Kr̥payā isa pravāha san̄citra priṇṭa bāhara aura apanē skrīna kē pāsa ṭēpa.
+
+'Badhā'ī hō, aba āpa sthānīya kampyūṭara viśēṣajña rahē haiṁ! "
+
+
+
+
+
+
+Rakas eri vanhemmat, isovanhemmat, työtovereihin, ja muut "ei tietokone ihmisiä."
+
+
+Emme maagisesti tiedä, miten kaikki jokaisessa ohjelmassa. Kun autamme sinua, me yleensä vain tehdä tämän seuraavasti:
+
+Alku
+
+
+Etsi valikosta tai painike, joka näyttää liittyvän siihen, mitä haluat tehdä.
+
+
+Ok
+
+
+Napsauta sitä.
+
+
+En voi löytää yksi
+
+
+Valitsee jonkin niistä satunnaisesti.
+
+Olen kokeillut niitä kaikkia.
+
+
+Google ohjelman nimi sekä muutaman sanan siihen, mitä haluat tehdä. Noudata kaikkia ohjeita.
+
+Toimiko se?
+
+
+"Kyllä"
+
+
+"You're done!"
+
+
+"Ei
+
+
+Oletko yrittänyt tätä jo yli puoli tuntia?
+
+
+Pyydä apua toiselta käyttäjältä tai antaa periksi.
+
+
+Ole hyvä ja tulosta tämä kaavio, ja nauha on lähellä näytön.
+
+"Onneksi olkoon, Olet nyt paikallisen tietokoneen asiantuntija!"
+
+
+
+
+
+
+عزيزي مختلف الآباء والأجداد ، وزملاء العمل ، وغيرها "لا شعب الكمبيوتر".
+
+
+سحرية ونحن لا نعرف كيف نفعل كل شيء في كل برنامج. عندما كنا مساعدتك ، ونحن نفعل ذلك عادة للتو :
+
+يبدأ
+
+
+العثور على عنصر قائمة أو زر التي تبدو ذات الصلة الى ما تريد القيام به.
+
+
+موافق
+
+
+فوقه.
+
+
+لا أستطيع العثور على واحد
+
+
+اختيار واحد على نحو عشوائي.
+
+لقد حاول كل منهم.
+
+
+جوجل اسم البرنامج بالاضافة الى بضع كلمات ذات الصلة الى ما تريد القيام به. اتبع أية تعليمات.
+
+لم يعمل؟
+
+
+"نعم"
+
+
+"لقد انتهيت!"
+
+
+"لا"
+
+
+هل كانت هذه محاولة لأكثر من نصف ساعة؟
+
+
+طلب مساعدة أحد الأشخاص أو نستسلم.
+
+
+الرجاء طباعة مخطط من هذا الشريط وذلك بالقرب من الشاشة.
+
+"مبروك ، أنت الآن خبير الكمبيوتر المحلي"!
+Contribute a better translation
+
+
+
+
+Kæri ýmsum foreldrar, ömmur, vinnufélaga og aðra "ekki tölva fólk."
+
+
+Við ekki magically vita hvernig á að gera allt sem í hverju kerfi. Þegar við hjálpa þér, erum við yfirleitt bara að gera þetta:
+
+Byrja
+
+
+Finna matseðill atriði eða takkann sem lítur tengt hvað þú vilt gera.
+
+
+Ókei
+
+
+Smelltu á það.
+
+
+Ég get ekki fundið einn
+
+
+Veldu einn af handahófi.
+
+Ég hef prófað þá alla.
+
+
+Google heiti forritsins ásamt nokkrum orðum sem tengjast því sem þú vilt gera. Virða skal allar leiðbeiningar.
+
+Did it work?
+
+
+"Já"
+
+
+"Þú ert búinn!"
+
+
+"Nei"
+
+
+Hefur þú verið að reyna þetta í meira en hálftíma?
+
+
+Biddu einhvern um aðstoð eða gefast upp.
+
+
+Vinsamlegast Print this Flæðirit út og borði það nálægt skjánum.
+
+"Til hamingju, þú ert nú heimamaður tölva sérfræðingur!"
+
+
+
+
+
+亲爱的各种父母，祖父母，同事，以及其他“不是计算机的人。”
+
+
+我们不神奇知道如何在每个程序的一切。当我们帮助您，我们通常只是这样做：
+
+开始
+
+
+找到一个菜单项或按钮，看起来与你想做的事情。
+
+
+好的
+
+
+点击它。
+
+
+我无法找到一个
+
+
+随便挑一个。
+
+我已经试过所有。
+
+
+谷歌该程序的名称加上一个相关的你想要做的几句话。请遵守任何指示。
+
+它是否工作？
+
+
+“是”
+
+
+“大功告成！”
+
+
+“不”
+
+
+你有没有尝试这个为半小时？
+
+
+寻求帮助或放弃的人。
+
+
+请打印出此流程图和磁带靠近你的屏幕上。
+
+“祝贺你，你现在在本地计算机上的专家！”
+
+
+
+Sehr geehrte verschiedenen Eltern, Großeltern, Mitarbeiter und andere "nicht-Computer Menschen."
+
+
+Wir sind nicht magisch, alles zu wissen, wie in jedem Programm zu tun. Wenn wir Ihnen helfen, sind wir in der Regel nur dies zu tun:
+
+Start
+
+
+Finden Sie einen Menüpunkt oder Knopf, zu dem, was Sie tun möchten verwandte aussieht.
+
+
+OK
+
+
+Klicken Sie hier.
+
+
+Ich finde ein
+
+
+Wählen Sie eine nach dem Zufallsprinzip.
+
+Ich habe sie alle ausprobiert.
+
+
+Google den Namen des Programms, plus ein paar Worte zu dem, was Sie wollen in Zusammenhang stehen. Folgen Sie den Anweisungen.
+
+Hat es funktioniert?
+
+
+"Ja"
+
+
+"You're done!"
+
+
+"Nein"
+
+
+Haben Sie versucht, diese über eine halbe Stunde?
+
+
+Bitten Sie jemanden um Hilfe, oder aufgeben.
+
+
+Bitte drucken Sie diese aus Flussdiagramm und kleben Sie es in der Nähe von Ihrem Bildschirm.
+
+"Herzlichen Glückwunsch, Du bist jetzt der lokale Computer-Experte!"
+

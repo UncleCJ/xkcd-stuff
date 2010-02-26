@@ -1,20 +1,20 @@
-dearvarious1 (beste1) : Beste ouders, grootouders, collega's,
-dearvarious2  : en andere "niet computer mensen."
-dearvarious3  : Wij weten meestal niet hoe alles werkt in elk
-dearvarious4  : "programma. Als wij u helpen, zijn we meestal alleen in staat dit te doen:"
-start   : Start
-Vindmenu  : Vind een menu-item of een knop die eruit ziet als iets wat je wilt doen.
-ok   : Ok
-klikerop  : Klik er op.
-kannietsvinden  : "Ik kan niets vinden"
-kieswillekeurig  : Kies er een willekeurig.
-allesgeprobeerd  : "Ik heb ze allemaal geprobeerd."
-GoogleIt  : Google de naam van het programma plus een paar woorden in verband met wat je wilt doen. Volg alle instructies.
-werkthet  : Werkt het?
-"ja"   : "Ja"
-klaar   : "Je bent klaar!"
-"nee"   : "Nee"
-geprobeerd  : Heb je dit minstens een half uur geprobeerd?
-vraaghulp  : Vraag iemand om hulp of geef het op.
-voetnoot1  : Gelieve dit stroomschema te printen en plak het in de buurt van je scherm.
-voetnoot2  : "Gefeliciteerd, je bent nu de lokale computer expert!"
+dearvarious1: Beste ouders, grootouders, collega's,
+dearvarious2: en andere "niet computer mensen."
+dearvarious3: Wij weten meestal niet hoe alles werkt in elk
+dearvarious4: "programma. Als wij u helpen, zijn we meestal alleen in staat dit te doen:"
+start: Start
+findmenu: Vind een menu-item of een knop die eruit ziet als iets wat je wilt doen.
+ok: Ok
+clickit: Klik er op.
+cannotfind: "Ik kan niets vinden"
+pickrandom: Kies er een willekeurig.
+triedall: "Ik heb ze allemaal geprobeerd."
+googleit: Google de naam van het programma plus een paar woorden in verband met wat je wilt doen. Volg alle instructies.
+diditwork: Werkt het?
+"yes": "Ja"
+done: "Je bent klaar!"
+"no": "Nee"
+beentrying: Heb je dit minstens een half uur geprobeerd?
+askhelp: Vraag iemand om hulp of geef het op.
+footer1: Gelieve dit stroomschema te printen en plak het in de buurt van je scherm.
+footer2: "Gefeliciteerd, je bent nu de lokale computer expert!"

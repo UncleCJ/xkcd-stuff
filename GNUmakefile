@@ -1,6 +1,6 @@
 default: all
 
-LANGS=sv en
+LANGS=sv en pt et tr ru nl
 PNGS=$(foreach lang,$(LANGS),tech_support_cheat_sheet_$(lang).png)
 
 all: $(PNGS)
